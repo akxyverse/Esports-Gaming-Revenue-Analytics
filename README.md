@@ -254,7 +254,7 @@ Esports_Viewers ↔ Prize_Pool: 0.78 (Strong positive)
 - 📱 **Responsive:** Works on desktop and tablet
 
 ### Access Dashboard:
-🔗 **[View Live Dashboard on Tableau Public](#)** *(Add your link here)*
+🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/GamingEsportsSalesAnalyticsDasboard/GamingEsportsRevenueAnalyticsDashboard20102025?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
