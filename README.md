@@ -1,9 +1,15 @@
 # 🎮 Esports & Gaming Revenue Analytics System
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Latest-green)
-![Tableau](https://img.shields.io/badge/Tableau-Public-orange)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3776AB?...)
+![Pandas](https://img.shields.io/badge/Pandas-150458?...)
+![NumPy](https://img.shields.io/badge/NumPy-013243?...)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?...)
+![Julius AI](https://img.shields.io/badge/Julius_AI-FF6B6B?...)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?...)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?...)
+![Git](https://img.shields.io/badge/Git-F05032?...)
+![GitHub](https://img.shields.io/badge/GitHub-181717?...)
+![License](https://img.shields.io/badge/License-MIT-green?...)
 
 > A comprehensive data analytics project analyzing global gaming and esports revenue trends from 2010 to 2025, uncovering market dynamics, regional performance, and growth patterns using Python, Julius AI, and Tableau.
 
